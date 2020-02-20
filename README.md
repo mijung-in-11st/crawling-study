@@ -10,5 +10,5 @@ python, apscheduler 학습
 
 
 **3. 결과물**
-telegram bot을 만들어서 원하는 영화의 예매가 오픈했을 때 메세지를 보내줌
+telegram bot을 만들어서 원하는 영화의 예매가 오픈했을 때 메세지를 보내줌      
 -> apscheduler와 aws server를 사용해서 자동화
